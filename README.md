@@ -6,7 +6,7 @@ Currently implements a method to calculate the book pressure in real-time.
 
 to install:
 
-`pnmp i`
+`pnpm i`
 
 to run:
 
